@@ -12,7 +12,7 @@
 
 📫 My projects are available at https://github.com/mertaliclk
 
-💬 Reach me at anilayhan@sabanciuniv.edu
+💬 Reach me at mertali@sabanciuniv.edu
 
 #### Connect with me:
 <p align="left">
