@@ -5,7 +5,7 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=mertali&color=green&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=mertali&color=green&label=PROFILE+VIEWS&base=423)
 
 
 🔭 I’m currently a senior at Sabanci University
