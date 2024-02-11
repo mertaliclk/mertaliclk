@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="background-color: #f0f0f0;">
   <h3 align="center">Hi, I'm Mert Ali</h3>
   <hr>
   <h3 align="center">Computer Science Student at Sabanci University</h3>
