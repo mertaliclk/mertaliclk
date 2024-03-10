@@ -25,4 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertaliclk&show_icons=true&locale=en" alt="mertaliclk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertaliclk&" alt="mertaliclk" /></p>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/DDjTQxdNJQ6nckLO9Y/200.gif">
+
+
