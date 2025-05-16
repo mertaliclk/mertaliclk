@@ -30,14 +30,16 @@
 
 ### 📖 About Me
 
-- 🔭 I’m currently working on **exciting Web Development projects** and **enhancing my Full-Stack skills**.
-- 🌱 I’m currently learning more about **Cloud Technologies (AWS/Azure)** and **DevOps practices**. *(You can update this!)*
-- 👯 I’m looking to collaborate on **Open Source Cybersecurity Projects** or innovative **Web Applications**.
-- 🤔 I’m looking for help with/advice on **advanced cybersecurity concepts** or **scaling large applications**. *(Optional)*
-- 💬 Ask me about **Python, JavaScript, React, Node.js, or anything tech-related**!
-- 📫 How to reach me: **mertali@sabanciuniv.edu**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute! *(Replace with your own fun fact!)*
+- 🔭 I’m currently focused on **AI Development** with a specialization in **Large Language Model (LLM) training**, **fine-tuning**, and **alignment techniques** for real-world applications.
+- 🌱 Actively exploring **cloud-native ML workflows** using **AWS SageMaker**, **Azure ML**, **Docker**, and **Kubernetes**, with a strong focus on **scalable deployment**, and **DevOps for AI**.
+- 👯 Looking to collaborate on **open-source cybersecurity projects**, **LLM-based tools**, and intelligent **web/mobile applications**.
+- 🤖 Passionate about **transformer-based architectures**, **RLHF (Reinforcement Learning from Human Feedback)**, and **efficiency techniques** like **LoRA**, **Quantization**, and **PEFT**.
+- 🧠 Experienced in building end-to-end AI systems using **Hugging Face Transformers**, **PyTorch Lightning**, **TensorFlow**, and integrating **LLMs into apps** with **LangChain**, **FastAPI**, and **vector databases**.
+- 💬 Ask me anything about **AI system design, model evaluation, retrieval-augmented generation (RAG), or full-stack ML development using React + Node.js**.
+- 📫 Reach out: **mertali@sabanciuniv.edu**
+- 😄 Pronouns: HIM
+- ⚡ Fun fact: I can solve a Rubik's cube in under a minute! — and teach you how to do it, too!
+
 
 ---
 
