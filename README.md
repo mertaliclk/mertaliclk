@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Ali Çelik</h1>
-<h3 align="center">A passionate AI Developer/ Data Processing Analyst from Turkey       🇹🇷</h3>
+<h3 align="center">🇹🇷 AI Developer | Data Processing Analyst | Tech Enthusiast</h3>
 <p align="center"><em>Computer Science & Engineering Student @ Sabanci University</em></p>
 
 <!-- Suggestion: Use a more subtle, modern, or tech-themed GIF. You can also make it smaller. -->
@@ -33,7 +33,7 @@
 - 🤖 Passionate about **transformer-based architectures**, **RLHF (Reinforcement Learning from Human Feedback)**, and **efficiency techniques** like **LoRA**, **Quantization**, and **PEFT**.
 - 🧠 Experienced in building end-to-end AI systems using **Hugging Face Transformers**, **PyTorch Lightning**, **TensorFlow**, and integrating **LLMs into apps** with **LangChain**, **FastAPI**, and **vector databases**.
 - 💬 Ask me anything about **AI system design, model evaluation, retrieval-augmented generation (RAG), or full-stack ML development using React + Node.js**.
-- 📫 Reach out: **mertali@sabanciuniv.edu**
+- 📫 Reach out: [mertali@sabanciuniv.edu](mailto:mertali@sabanciuniv.edu)
 - 😄 Pronouns: HIM
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute! — and teach you how to do it, too!
 
