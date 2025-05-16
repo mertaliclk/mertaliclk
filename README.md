@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert Ali Çelik</h1>
-<h3 align="center">🇹🇷 AI Developer | Data Processing Analyst | Tech Enthusiast</h3>
+<h3 align="center">AI Developer | Data Processing Analyst | Tech Enthusiast</h3>
 <p align="center"><em>Computer Science & Engineering Student @ Sabanci University</em></p>
+<p align="center"><em>🇹🇷</em></p>
 
 <!-- Suggestion: Use a more subtle, modern, or tech-themed GIF. You can also make it smaller. -->
 <!-- Or, if you prefer a static image, consider a custom banner. -->
