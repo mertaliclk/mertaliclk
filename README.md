@@ -126,7 +126,7 @@
         <img src="https://img.shields.io/badge/Total%20Commits-206-blue?style=for-the-badge&logo=github&logoColor=white" />
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/Public%20Repos-XX-green?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Public%20Repos-15-green?style=for-the-badge&logo=github&logoColor=white" />
       </td>
     </tr>
   </table>
