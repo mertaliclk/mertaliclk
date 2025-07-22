@@ -119,7 +119,7 @@
 ## 🚀 My GitHub Activity Stats
 
 <div align="center">
-  
+
   <table>
     <tr>
       <td align="center" style="padding: 10px;">
@@ -131,15 +131,15 @@
     </tr>
   </table>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mertaliclk&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertaliclk&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  ### 🧠 Most Used Languages
+  <img src="https://img.shields.io/badge/JavaScript-40%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-25%25-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-20%25-green?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-15%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
 
 </div>
 
 ---
-
-💡 _Hover on the cards above or scroll around the page to discover more cool effects in my portfolio!_
 
 <!-- Optional: WakaTime Stats (if you use WakaTime) -->
 <!--
