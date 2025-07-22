@@ -116,22 +116,15 @@
 
 ---
 
-### 📊 My GitHub Stats:
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mertaliclk&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" alt="mertaliclk GitHub stats" />
-  <br/> <!-- Added a line break for better spacing if they appear stacked -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertaliclk&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="mertaliclk top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertaliclk&theme=radical&hide_border=true" alt="mertaliclk GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mertaliclk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertaliclk&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
-<!-- Optional: Add GitHub Trophies for a fun visual -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mertaliclk&theme=radical&column=7&no-frame=true&margin-w=15&margin-h=15" alt="mertaliclk GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=mertaliclk&theme=radical&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <!-- Optional: WakaTime Stats (if you use WakaTime) -->
