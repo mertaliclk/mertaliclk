@@ -116,15 +116,15 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mertaliclk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertaliclk&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mertaliclk&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Activity%20Stats&hide=prs,issues,stars" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mertaliclk&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=FF6EC7&fire=FF6EC7" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mertaliclk&theme=radical&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mertaliclk&theme=radical&no-frame=true&margin-w=10&row=1&column=4&title=Commits,Repositories,Followers,Experience" />
 </p>
 
 <!-- Optional: WakaTime Stats (if you use WakaTime) -->
