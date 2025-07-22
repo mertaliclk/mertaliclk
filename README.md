@@ -137,14 +137,7 @@
 </p>
 -->
 
----
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mertaliclk&theme=radical&column=7&no-frame=true&margin-w=15&margin-h=15" alt="mertaliclk" />
-  </a>
-</p>
 
 <!-- You can also add a section for "My Projects" and pin your best repositories -->
 <!-- Or "What I'm Currently Learning" with more details -->
