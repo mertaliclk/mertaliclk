@@ -116,17 +116,30 @@
 
 ---
 
-### 📈 GitHub Insights
+## 🚀 My GitHub Activity Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mertaliclk&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Activity%20Stats&hide=prs,issues,stars,contribs" width="48%" />
+<div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mertaliclk&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=FF6EC7&fire=FF6EC7" width="48%" />
-</p>
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/Total%20Commits-206-blue?style=for-the-badge&logo=github&logoColor=white" />
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/Public%20Repos-XX-green?style=for-the-badge&logo=github&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mertaliclk&theme=radical&no-frame=true&margin-w=10&title=Commits,Repositories,Followers,Experience&row=1&column=4" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mertaliclk&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertaliclk&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+💡 _Hover on the cards above or scroll around the page to discover more cool effects in my portfolio!_
 
 <!-- Optional: WakaTime Stats (if you use WakaTime) -->
 <!--
